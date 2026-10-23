@@ -1,0 +1,23 @@
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Vector Store
+vector_store/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,14 @@
+# Core PDF Processing
+pymupdf>=1.24.0
+
+# Embeddings & Vector Search
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+
+# LLM Generation & API
+groq>=0.9.0
+python-dotenv>=1.0.1
+
+# Web Application
+streamlit>=1.35.0
